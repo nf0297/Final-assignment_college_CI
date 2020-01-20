@@ -7,6 +7,9 @@ This app is my college's final assignment. Created using CodeIgniter as a base, 
 - Download this [app](https://github.com/nf0297/Final-assignment_college_CI/archive/master.zip)
 - Create database named 'perusahaan'
 - Import data from database folder inside this data
+- Extract .zip files and put it in your xampp/htdocs folder
+- Start XAMPP
+- Launch this app using localhost/perusahaan
  
 ## Note
 
